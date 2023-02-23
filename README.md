@@ -19,4 +19,4 @@ The repository is structured as follows:
         - Thread.getState() / Thread.isAlive()
 - p02_thread_safety :- WIP
 - p03_completable_future :- WIP
-- p04_concurrent_collections :- WI
+- p04_concurrent_collections :- WIP
