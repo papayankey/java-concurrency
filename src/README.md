@@ -1,0 +1,22 @@
+The repository is structured as follows:
+
+- p01_basics
+    - creating threads using :-
+        - Thread class
+        - Runnable
+        - ExecutorService
+        - Callable
+    - thread methods :-
+        - Thread.getId()
+        - Thread.getName()
+        - Thread.setName()
+        - Thread.currentThread()
+        - Thread.sleep() / TimeUnit
+        - Thread.interrupt() / Thread.interrupted() / isInterrupted()
+        - Thread.join()
+        - Thread.setPriority() / Thread.getPriority()
+        - Thread.setDaemon() / Thread.isDaemon()
+        - Thread.getState() / Thread.isAlive()
+- p02_thread_safety :- WIP
+- p03_completable_future :- WIP
+- p04_concurrent_collections :- WI
